@@ -2,13 +2,8 @@
 ## Description
 This is a modification of the default Laminar C-130 with flares, chaff and fixed drogue location
 ## Plans
-| Name | Difficulty | Tasks involved
-|--|--|--|
-|Other Weapons (cannon, missiles)|Easy| Add weapons, maybe pylons for under wing|
-|HD Livery|Easy, time intensive|
-|Improve 2D cockpit (remove antiquated steam gauges)|Medium|
-|Aerial refuelling reciever |Medium| Modify livery with aerial refuelling reciever markings|
 
+[Project Board](https://github.com/jamesy0ung/C130-Mod/projects/1)
 
 ## Contributing
 If you want things done faster, simply make a PR and I'll check it out and accept it
