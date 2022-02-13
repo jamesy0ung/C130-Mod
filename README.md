@@ -15,6 +15,7 @@ If you want things done faster, simply make a PR and I'll check it out and accep
 
 ## Credits
 Laminar Research and JRollon for the Plane
+
 [ckamaleao](https://forums.x-plane.org/index.php?/profile/457034-ckamaleao/) for his amazing 3D cockpit, used with his permission
 
 
