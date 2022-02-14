@@ -186,7 +186,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 100.0
 P _gear/0/_scon 37575.757812500
-P _gear/0/_stat_def 0.929020345
+P _gear/0/_stat_def 0.929020464
 P _gear/0/_steerdeg_hispeed 20.0
 P _gear/0/_steerdeg_lospeed 60.0
 P _gear/0/_strut_comp 0.0
@@ -220,7 +220,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 51666.667968750
-P _gear/1/_stat_def 0.553939760
+P _gear/1/_stat_def 0.553939700
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -254,7 +254,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 51666.667968750
-P _gear/2/_stat_def 0.553939760
+P _gear/2/_stat_def 0.553939700
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -288,7 +288,7 @@ P _gear/3/_lonE 0.0
 P _gear/3/_lonN 0.0
 P _gear/3/_lonR 0.0
 P _gear/3/_scon 51666.667968750
-P _gear/3/_stat_def 0.608304143
+P _gear/3/_stat_def 0.608304262
 P _gear/3/_steerdeg_hispeed 0.0
 P _gear/3/_steerdeg_lospeed 0.0
 P _gear/3/_strut_comp 0.0
@@ -322,7 +322,7 @@ P _gear/4/_lonE 0.0
 P _gear/4/_lonN 0.0
 P _gear/4/_lonR 0.0
 P _gear/4/_scon 51666.667968750
-P _gear/4/_stat_def 0.608304143
+P _gear/4/_stat_def 0.608304262
 P _gear/4/_steerdeg_hispeed 0.0
 P _gear/4/_steerdeg_lospeed 0.0
 P _gear/4/_strut_comp 0.0
@@ -67583,11 +67583,12 @@ wpn_but_flare but_flare.png
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
 wpn_but_chaff but_chaff.png
-  POS 81.000000 1221.000000
+  POS 81.500000 1221.500000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -67595,10 +67596,11 @@ wpn_but_chaff but_chaff.png
   KEY_FRAME 1.000000 1.000000
 
 wpn_but_chaff but_chaff.png
-  POS 803.000000 1101.000000
+  POS 803.500000 1101.500000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
@@ -67607,14 +67609,16 @@ wpn_sel_all all.png
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
 wpn_sel_any any.png
-  POS 802.333313 1044.666626
+  POS 803.333313 1044.666626
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
@@ -67623,14 +67627,16 @@ wpn_ind_flare ind_flare.png
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
 wpn_ind_chaff ind_chaff.png
-  POS 802.500000 1078.000000
+  POS 802.500000 1078.500000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
@@ -67639,6 +67645,7 @@ wpn_fire_mode fire_mode.png
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
@@ -67647,6 +67654,7 @@ wpn_fire_rate fire_rate.png
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
+  BUS_SRC 1
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
