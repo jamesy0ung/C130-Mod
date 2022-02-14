@@ -1,6 +1,6 @@
 # C-130-Mod
 ## Description
-This is a modification of the default Laminar C-130 with flares, chaff and fixed drogue location
+This is a modification of the default Laminar C-130
 ## Plans
 
 [Project Board](https://github.com/jamesy0ung/C130-Mod/projects/1)
