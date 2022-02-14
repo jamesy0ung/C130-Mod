@@ -1,4 +1,0 @@
-A
-750 version
-y_bottom   y_top
--82	104		// comment: handle range

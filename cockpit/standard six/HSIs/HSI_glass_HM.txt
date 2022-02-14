@@ -1,7 +1,0 @@
-A
-750 version
- x   y  
- 0  -2	// comment: rose offsets in ROSE mode
- 0 -50	// comment: rose offsets in ARC mode
-64   0	// comment: glideslope lateral and vertical displacement from center
-15  10	// comment: localizer and glideslope travel per dot deflection
