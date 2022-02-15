@@ -186,7 +186,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 100.0
 P _gear/0/_scon 37575.757812500
-P _gear/0/_stat_def 0.929020286
+P _gear/0/_stat_def 0.929020345
 P _gear/0/_steerdeg_hispeed 20.0
 P _gear/0/_steerdeg_lospeed 60.0
 P _gear/0/_strut_comp 0.0
@@ -220,7 +220,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 51666.667968750
-P _gear/1/_stat_def 0.553939462
+P _gear/1/_stat_def 0.553939521
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -254,7 +254,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 51666.667968750
-P _gear/2/_stat_def 0.553939462
+P _gear/2/_stat_def 0.553939521
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -288,7 +288,7 @@ P _gear/3/_lonE 0.0
 P _gear/3/_lonN 0.0
 P _gear/3/_lonR 0.0
 P _gear/3/_scon 51666.667968750
-P _gear/3/_stat_def 0.608304143
+P _gear/3/_stat_def 0.608304083
 P _gear/3/_steerdeg_hispeed 0.0
 P _gear/3/_steerdeg_lospeed 0.0
 P _gear/3/_strut_comp 0.0
@@ -322,7 +322,7 @@ P _gear/4/_lonE 0.0
 P _gear/4/_lonN 0.0
 P _gear/4/_lonR 0.0
 P _gear/4/_scon 51666.667968750
-P _gear/4/_stat_def 0.608304143
+P _gear/4/_stat_def 0.608304083
 P _gear/4/_steerdeg_hispeed 0.0
 P _gear/4/_steerdeg_lospeed 0.0
 P _gear/4/_strut_comp 0.0
@@ -61891,17 +61891,7 @@ P _wpna/1/_v10_att_y_acf_prt_ref 7.0
 P _wpna/1/_v10_att_z_acf_prt_ref 88.800003052
 P _wpna/1/_v10_is_internal 1
 P _wpna/1/_v10_steers_with_gear 0
-P _wpna/2/_v10_att_file_stl GBU-32 JDAM1000.wpn
-P _wpna/2/_v10_att_part -1
-P _wpna/2/_v10_att_phi_ref 0.0
-P _wpna/2/_v10_att_psi_ref 0.0
-P _wpna/2/_v10_att_the_ref 0.0
-P _wpna/2/_v10_att_x_acf_prt_ref 0.0
-P _wpna/2/_v10_att_y_acf_prt_ref 0.0
-P _wpna/2/_v10_att_z_acf_prt_ref 0.0
-P _wpna/2/_v10_is_internal 0
-P _wpna/2/_v10_steers_with_gear 0
-P _wpna/count 22
+P _wpna/count 21
 P acf/_APU_cooldown_time 0.001000000
 P acf/_APU_door_time 0.001000000
 P acf/_APU_spooldn_time 15.0
@@ -64223,8 +64213,8 @@ P acf/_get_tow_new/1 0.0
 P acf/_get_tow_new/2 0.0
 P acf/_get_tow_new/count 3
 P acf/_give_tow/0 0.0
-P acf/_give_tow/1 0.0
-P acf/_give_tow/2 0.0
+P acf/_give_tow/1 7.500000000
+P acf/_give_tow/2 90.0
 P acf/_give_tow/count 3
 P acf/_go_to_beta_below_thro 0.0
 P acf/_go_to_burner_50_above_thro 0.0
@@ -64309,7 +64299,7 @@ P acf/_has_fuel_2 0
 P acf/_has_full_bleed_air 0
 P acf/_has_get_tow 0
 P acf/_has_get_tow_new 0
-P acf/_has_give_tow 0
+P acf/_has_give_tow 1
 P acf/_has_ground_pwr 0
 P acf/_has_hsi 1
 P acf/_has_pre_rotate 0
@@ -64386,14 +64376,14 @@ P acf/_jato_dur 0.0
 P acf/_jato_sfc 0.0
 P acf/_jato_theta 0.0
 P acf/_jato_thrust 0.0
-P acf/_jett_is_acft 0
+P acf/_jett_is_acft 1
 P acf/_jett_is_ret 0
 P acf/_jett_is_slung 0
-P acf/_jett_is_water 1
-P acf/_jett_the 0.0
+P acf/_jett_is_water 0
+P acf/_jett_the 2.500000000
 P acf/_jett_xyz/0 0.0
-P acf/_jett_xyz/1 0.0
-P acf/_jett_xyz/2 0.0
+P acf/_jett_xyz/1 9.0
+P acf/_jett_xyz/2 39.0
 P acf/_jett_xyz/count 3
 P acf/_lo_speed_is_position 0
 P acf/_load_alt_presel_on_alt_hit 1
@@ -64445,7 +64435,7 @@ P acf/_mixt_x_ctr 0.0
 P acf/_n1_power_curve1 2.0
 P acf/_n1_power_curve2 3.0
 P acf/_n2_power_curve 3.500000000
-P acf/_name C-130H
+P acf/_name C-130H Carrier
 P acf/_new_plot_XP3D_cock/0 1
 P acf/_new_plot_XP3D_cock/1 1
 P acf/_new_plot_XP3D_cock/2 1
