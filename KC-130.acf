@@ -186,7 +186,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 100.0
 P _gear/0/_scon 37575.757812500
-P _gear/0/_stat_def 0.929020226
+P _gear/0/_stat_def 0.929020166
 P _gear/0/_steerdeg_hispeed 20.0
 P _gear/0/_steerdeg_lospeed 60.0
 P _gear/0/_strut_comp 0.0
@@ -220,7 +220,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 51666.667968750
-P _gear/1/_stat_def 0.553939462
+P _gear/1/_stat_def 0.553939700
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -254,7 +254,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 51666.667968750
-P _gear/2/_stat_def 0.553939462
+P _gear/2/_stat_def 0.553939700
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -47536,7 +47536,7 @@ P _part/85/_part_specs_invis 1
 P _part/85/_part_tex 0
 P _part/85/_part_the 0.0
 P _part/85/_part_x 0.0
-P _part/85/_part_y -4.670979977
+P _part/85/_part_y -4.670980453
 P _part/85/_part_z 11.500000000
 P _part/85/_patt_con 0
 P _part/85/_patt_prt 0
@@ -49006,7 +49006,7 @@ P _part/86/_part_specs_invis 1
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x -6.199999809
-P _part/86/_part_y -4.446060658
+P _part/86/_part_y -4.446060181
 P _part/86/_part_z 46.0
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -50476,7 +50476,7 @@ P _part/87/_part_specs_invis 1
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x 6.199999809
-P _part/87/_part_y -4.446060658
+P _part/87/_part_y -4.446060181
 P _part/87/_part_z 46.0
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -63671,7 +63671,7 @@ P acf/_cyclic_up_trim_rat 0.0
 P acf/_deg_psi_per_deg_def 4.0
 P acf/_deg_the_per_deg_def 0.499999911
 P acf/_delta3 0.0
-P acf/_descrip Lockheed C-130H Hercules Military Transport Aircraft
+P acf/_descrip Lockheed C-130H Hercules Military Tanker Transport Aircraft
 P acf/_diff_coll_with_hdng 0.0
 P acf/_diff_coll_with_ptch 0.0
 P acf/_diff_coll_with_roll 0.0
@@ -64390,7 +64390,7 @@ P acf/_jato_thrust 0.0
 P acf/_jett_is_acft 0
 P acf/_jett_is_ret 0
 P acf/_jett_is_slung 0
-P acf/_jett_is_water 1
+P acf/_jett_is_water 0
 P acf/_jett_the 0.0
 P acf/_jett_xyz/0 0.0
 P acf/_jett_xyz/1 0.0
